@@ -3783,3 +3783,9 @@ certificaat:
   url: https://github.com/danielsz/certificaat
   categories: [ACME Clients, Certificate Management]
   platforms: [clj]
+
+ring-proxy:
+  name: ring-proxy
+  url: https://github.com/derekchiang/ring-proxy
+  categories: [HTTP Servers]
+  platforms: [clj]
